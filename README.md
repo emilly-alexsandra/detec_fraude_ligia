@@ -55,6 +55,15 @@ O modelo apresentou excelente desempenho na detecção de fraude:
 
 O modelo demonstrou alta capacidade de distinguir entre classes, mesmo com forte desbalanceamento.
 
+## - Validação e Generalização
+
+O modelo foi avaliado utilizando duas estratégias complementares:
+
+- **Hold-out validation:** divisão treino/teste com dados não vistos
+- **Stratified K-Fold Cross-Validation (k=5):** garantindo estabilidade do desempenho em diferentes partições
+
+Além disso, o modelo foi testado em dados externos da competição Kaggle, reforçando sua capacidade de generalização.
+
 ---
 ## - Interpretabilidade do Modelo
 
