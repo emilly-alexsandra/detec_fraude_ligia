@@ -1,5 +1,13 @@
 # detec_fraude_ligia
 Esse repositório é destinado ao desafio individual do processo seletivo da Liga Acadêmica de Inteligência Artificial da UFPE. O projeto implementa um modelo de Machine Learning para detecção de fraudes em transações financeiras.
+---
+## Autora
+
+Emilly Alexsandra de Oliveira Silva
+
+Acadêmica de Engenharia Biomédica - UFPE
+
+Recife - PE
 
 ---
 - ## Objetivo
@@ -109,19 +117,13 @@ https://www.kaggle.com/competitions/ligia-machine-learning/data?select=train.csv
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Entre na pasta:
+git clone https://github.com/emilly-alexsandra/detec_fraude_ligia.git
 
 cd detec_fraude_ligia
-Instale as dependências:
 
 pip install -r requirements.txt
-Execute o notebook:
 
-notebooks/Desafio_Individual_emilly.ipynb
+jupyter notebook notebooks/Desafio_Individual_emilly.ipynb
 
 ```
----
-Autora
 
-Emilly Alexsandra de Oliveira Silva
