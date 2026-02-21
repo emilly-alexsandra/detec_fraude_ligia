@@ -86,18 +86,6 @@ Foram utilizadas técnicas de Explainable AI para garantir transparência nas de
 
 ---
 
-## - Estrutura do Projeto
-
-projeto-ml-fraude/
-│
-├── notebooks/ # Análise exploratória e modelagem
-├── models/ # Modelo treinado salvo (.pkl)
-├── reports/ # Gráficos e resultados (ROC, SHAP, etc)
-├── requirements.txt # Dependências do projeto
-└── README.md
-
----
-
 ## - Dataset
 
 O dataset utilizado não está incluído no repositório.
